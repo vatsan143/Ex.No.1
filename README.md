@@ -145,7 +145,7 @@ Feedforward Networks: Transform attention outputs into meaningful predictions.
 
 Layer Normalization & Residuals: Stabilize training and improve convergence.
 
-![Screenshot 2025-05-16 133424](https://github.com/user-attachments/assets/d69fa5d3-0f00-4dfc-b41c-8823c0ef697e)
+<img width="695" height="1024" alt="image" src="https://github.com/user-attachments/assets/b8979f48-d895-444e-b51a-3dcecfc6e798" />
 
 ### 4.2 Training Techniques
 Pre-training: LLMs are trained on large text corpora with unsupervised objectives like next-token prediction or masked language modeling.
@@ -164,6 +164,8 @@ Translation & Interpretation: High-quality machine translation.
 Semantic Search & Classification: Enhance search engines and information retrieval systems.
 
 # 5. Challenges in Generative AI and LLMs
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a0d1796-fa36-4813-9817-b1318e5feec0" />
+
 ### 5.1 Ethical Considerations
 Bias & Fairness: LLMs can mirror or amplify societal biases present in training data.
 
@@ -179,6 +181,8 @@ Compute Costs: Training and deploying LLMs require substantial computational and
 Interpretability: Difficulty in understanding model decisions.
 
 # 6. Future Directions
+<img width="1054" height="303" alt="Screenshot 2026-02-03 143648" src="https://github.com/user-attachments/assets/9a0203a3-921e-498c-a985-ff22c3a1ae2c" />
+
 ### 6.1 Efficient Models
 Research aims to develop smaller yet capable models (e.g., DistilBERT, LLaMA) to lower hardware demands and carbon footprint.
 
